@@ -9,6 +9,6 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
-
+screens/minimal.js
 # macOS
 .DS_Store
